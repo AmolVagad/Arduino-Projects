@@ -1,0 +1,53 @@
+LCD+Arduino:
+
+http://www.instructables.com/id/Connect-A-16x2-LCD-Display-To-An-Arduino/?ALLSTEPS
+
+
+http://arduino.cc/en/Tutorial/LiquidCrystal
+
+
+
+
+LCd+Arduino+Temp Sensor:
+
+
+http://garagelab.com/profiles/blogs/tutorial-show-the-temperature-of-the-enviornment-with-the-arduino
+
+Temperature Sensor + Arduino 
+
+http://www.hobbytronics.co.uk/ds18b20-arduino
+
+
+Water level detection
+
+http://www.electroschematics.com/9964/arduino-water-level-indicator-controller/
+
+
+http://www.instructables.com/id/Building-a-Capacitive-Liquid-Sensor/?ALLSTEPS
+
+
+Temp Sensing:
+http://www.instructables.com/id/ARDUINO-TEMPERATURE-SENSOR-LM35/
+
+http://playground.arduino.cc/Main/LM35HigherResolution
+
+
+
+
+
+AC Relay :
+http://www.instructables.com/id/Controlling-AC-light-using-Arduino-with-relay-modu/?ALLSTEPS
+
+
+Bluetooth Module + Android App
+http://www.instructables.com/id/How-control-arduino-board-using-an-android-phone-a/
+
+http://www.amarino-toolkit.net/
+
+http://www.makeuseof.com/tag/arduino-home-automation-remote-control-ios-android/
+
+
+
+
+
+http://mvartan.com/2013/03/11/1-photo-theramin-and-more-fun-with-reversed-leds/
